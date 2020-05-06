@@ -18,8 +18,6 @@
 
 [VPC](https://github.com/cookker/todayILearned/blob/master/aws/20200503.md)
 
-
-
 # CS 일반
 
-
+[브라우저에 URL입력후 프로세스](https://github.com/cookker/todayILearned/blob/master/cs/20200506.md)
