@@ -12,6 +12,8 @@
 
 [G1GC](https://github.com/cookker/todayILearned/blob/master/java/20200507.md)
 
+[Tri-Color Marking Algorithm](https://github.com/cookker/todayILearned/blob/master/java/20200510.md)
+
 # Algoritm
 
 [백트래킹](https://github.com/cookker/todayILearned/blob/master/algorithm/20200428.md)
@@ -23,13 +25,3 @@
 # CS 일반
 
 [브라우저에 URL입력후 프로세스](https://github.com/cookker/todayILearned/blob/master/cs/20200506.md)
-
-
-
-
-
-
-
-
-
-
