@@ -14,6 +14,8 @@
 
 [Tri-Color Marking Algorithm](https://github.com/cookker/todayILearned/blob/master/java/20200510.md)
 
+[GC 알고리즘](https://github.com/cookker/todayILearned/blob/master/java/20200514.md)
+
 # Algoritm
 
 [백트래킹](https://github.com/cookker/todayILearned/blob/master/algorithm/20200428.md)
@@ -23,10 +25,6 @@
 [Dijkstra](https://github.com/cookker/todayILearned/blob/master/algorithm/20200512.md)
 
 [Priority Queue](https://github.com/cookker/todayILearned/blob/master/algorithm/20200513.md)
-
-
-
-
 
 # AWS
 
