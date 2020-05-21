@@ -32,9 +32,7 @@
 
 [Greedy Algorithm](https://github.com/cookker/todayILearned/blob/master/algorithm/20200520.md)
 
-
-
-
+[MST-Kruskal](https://github.com/cookker/todayILearned/blob/master/algorithm/20200521.md)
 
 # AWS
 
