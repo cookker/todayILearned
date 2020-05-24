@@ -34,6 +34,14 @@
 
 [MST-Kruskal](https://github.com/cookker/todayILearned/blob/master/algorithm/20200521.md)
 
+[MST-Prim](https://github.com/cookker/todayILearned/blob/master/algorithm/20200524.md)
+
+
+
+
+
+
+
 # AWS
 
 [VPC](https://github.com/cookker/todayILearned/blob/master/aws/20200503.md)
