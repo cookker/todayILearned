@@ -8,6 +8,12 @@
 
 [SpringBoot 2.3.0 피처](https://github.com/cookker/todayILearned/tree/master/spring/20200525.md)
 
+[Junit5-Parameterized](https://github.com/cookker/todayILearned/tree/master/spring/20200527.md)
+
+
+
+
+
 # JAVA
 
 [JVM 아키텍처](https://github.com/cookker/todayILearned/blob/master/java/20200427.md)
@@ -51,7 +57,3 @@
 [Case](https://github.com/cookker/todayILearned/blob/master/bash/20200518.md)
 
 [Rename](https://github.com/cookker/todayILearned/blob/master/bash/20200526.md)
-
-
-
-
