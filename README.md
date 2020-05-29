@@ -10,10 +10,6 @@
 
 [Junit5-Parameterized](https://github.com/cookker/todayILearned/tree/master/spring/20200527.md)
 
-
-
-
-
 # JAVA
 
 [JVM 아키텍처](https://github.com/cookker/todayILearned/blob/master/java/20200427.md)
@@ -23,6 +19,10 @@
 [Tri-Color Marking Algorithm](https://github.com/cookker/todayILearned/blob/master/java/20200510.md)
 
 [GC 알고리즘](https://github.com/cookker/todayILearned/blob/master/java/20200514.md)
+
+[@SafeVarargs](https://github.com/cookker/todayILearned/blob/master/java/20200528.md)
+
+
 
 # Algoritm
 
