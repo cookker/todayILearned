@@ -24,8 +24,6 @@
 
 [Java Agent](https://github.com/cookker/todayILearned/blob/master/cs/20200530.md)
 
-
-
 # Algoritm
 
 [백트래킹](https://github.com/cookker/todayILearned/blob/master/algorithm/20200428.md)
@@ -46,6 +44,12 @@
 
 [MST-Prim](https://github.com/cookker/todayILearned/blob/master/algorithm/20200524.md)
 
+[MST-Prim 구현](https://github.com/cookker/todayILearned/blob/master/algorithm/20200601.md)
+
+
+
+
+
 # AWS
 
 [VPC](https://github.com/cookker/todayILearned/blob/master/aws/20200503.md)
@@ -53,10 +57,6 @@
 # CS 일반
 
 [브라우저에 URL입력후 프로세스](https://github.com/cookker/todayILearned/blob/master/cs/20200506.md)
-
-
-
-
 
 # Bash
 
