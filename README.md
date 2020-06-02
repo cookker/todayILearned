@@ -46,6 +46,8 @@
 
 [MST-Prim 구현](https://github.com/cookker/todayILearned/blob/master/algorithm/20200601.md)
 
+[KMP](https://github.com/cookker/todayILearned/blob/master/algorithm/20200602.md)
+
 
 
 
