@@ -24,9 +24,7 @@
 
 [Java Agent](https://github.com/cookker/todayILearned/blob/master/cs/20200530.md)
 
-[LinkedBlockingQueue VS ConcurrentLinkedQueue](https://github.com/cookker/todayILearned/blob/master/cs/20200603.md)
-
-
+[LinkedBlockingQueue VS ConcurrentLinkedQueue](https://github.com/cookker/todayILearned/blob/master/java/20200603.md)
 
 # Algoritm
 
