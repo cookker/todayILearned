@@ -10,6 +10,12 @@
 
 [Junit5-Parameterized](https://github.com/cookker/todayILearned/tree/master/spring/20200527.md)
 
+
+
+[JPA Collection 조회 최적화](https://github.com/cookker/todayILearned/blob/master/spring/20200614.md)
+
+
+
 # JAVA
 
 [JVM 아키텍처](https://github.com/cookker/todayILearned/blob/master/java/20200427.md)
@@ -59,8 +65,6 @@
 [Merge Sort](https://github.com/cookker/todayILearned/blob/master/algorithm/20200610.md)
 
 [Merge Sort 구현](https://github.com/cookker/todayILearned/blob/master/algorithm/20200611.md)
-
-
 
 # AWS
 
