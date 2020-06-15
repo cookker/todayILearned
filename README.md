@@ -10,11 +10,7 @@
 
 [Junit5-Parameterized](https://github.com/cookker/todayILearned/tree/master/spring/20200527.md)
 
-
-
 [JPA Collection 조회 최적화](https://github.com/cookker/todayILearned/blob/master/spring/20200614.md)
-
-
 
 # JAVA
 
@@ -81,3 +77,11 @@
 [Case](https://github.com/cookker/todayILearned/blob/master/bash/20200518.md)
 
 [Rename](https://github.com/cookker/todayILearned/blob/master/bash/20200526.md)
+
+
+
+# JS
+
+[자주하는 실수들](https://github.com/cookker/todayILearned/blob/master/js/20200615.md)
+
+
