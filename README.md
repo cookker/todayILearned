@@ -10,7 +10,7 @@
 
 [Junit5-Parameterized](https://github.com/cookker/todayILearned/tree/master/spring/20200527.md)
 
-[JPA Collection 조회 최적화](https://github.com/cookker/todayILearned/blob/master/spring/20200614.md)
+[JPA Collection 조회 최적화](https://github.com/cookker/todayILearned/blob/master/spring/20200614.md)
 
 # JAVA
 
@@ -76,10 +76,6 @@
 
 [ACL](https://github.com/cookker/todayILearned/blob/master/cs/20200617.md)
 
-
-
-
-
 # Bash
 
 [Case](https://github.com/cookker/todayILearned/blob/master/bash/20200518.md)
@@ -89,3 +85,9 @@
 # JS
 
 [자주하는 실수들](https://github.com/cookker/todayILearned/blob/master/js/20200615.md)
+
+
+
+# Tools
+
+[sdkman 설치](https://github.com/cookker/todayILearned/blob/master/tools/20200618.md)
