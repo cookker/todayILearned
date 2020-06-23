@@ -66,6 +66,8 @@
 
 [Run-Length Encoding](https://github.com/cookker/todayILearned/blob/master/algorithm/20200622.md)
 
+[Binary Tree](https://github.com/cookker/todayILearned/blob/master/algorithm/20200623.md)
+
 
 
 # AWS
