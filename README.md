@@ -68,8 +68,6 @@
 
 [Binary Tree](https://github.com/cookker/todayILearned/blob/master/algorithm/20200623.md)
 
-
-
 # AWS
 
 [VPC](https://github.com/cookker/todayILearned/blob/master/aws/20200503.md)
@@ -93,6 +91,8 @@
 # JS
 
 [자주하는 실수들](https://github.com/cookker/todayILearned/blob/master/js/20200615.md)
+
+[Spread Operator & Generator Func](https://github.com/cookker/todayILearned/blob/master/js/20200624.md)
 
 # Tools
 
