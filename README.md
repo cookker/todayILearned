@@ -97,3 +97,9 @@
 # Tools
 
 [sdkman 설치](https://github.com/cookker/todayILearned/blob/master/tools/20200618.md)
+
+
+
+# ETC
+
+[CSS 선택자](https://github.com/cookker/todayILearned/blob/master/etc/20200625.md)
