@@ -90,10 +90,6 @@
 
 [블럭넌블럭, 동기비동기](https://github.com/cookker/todayILearned/blob/master/cs/20200702.md)
 
-
-
-
-
 # Bash
 
 [Case](https://github.com/cookker/todayILearned/blob/master/bash/20200518.md)
@@ -115,3 +111,7 @@
 # ETC
 
 [CSS 선택자](https://github.com/cookker/todayILearned/blob/master/etc/20200625.md)
+
+[오브텍트 책 요약](https://github.com/cookker/todayILearned/blob/master/etc/20200704.md)
+
+
