@@ -92,8 +92,6 @@
 
 [Partitioning](https://github.com/cookker/todayILearned/blob/master/cs/20200706.md)
 
-
-
 # Bash
 
 [Case](https://github.com/cookker/todayILearned/blob/master/bash/20200518.md)
@@ -117,3 +115,7 @@
 [CSS 선택자](https://github.com/cookker/todayILearned/blob/master/etc/20200625.md)
 
 [오브텍트 책 요약](https://github.com/cookker/todayILearned/blob/master/etc/20200704.md)
+
+[Kafka](https://github.com/cookker/todayILearned/blob/master/etc/20200707.md)
+
+
