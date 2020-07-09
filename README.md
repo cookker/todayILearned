@@ -28,6 +28,12 @@
 
 [LinkedBlockingQueue VS ConcurrentLinkedQueue](https://github.com/cookker/todayILearned/blob/master/java/20200603.md)
 
+[Random](https://github.com/cookker/todayILearned/blob/master/java/20200709.md)
+
+
+
+
+
 # Algoritm
 
 [백트래킹](https://github.com/cookker/todayILearned/blob/master/algorithm/20200428.md)
@@ -117,5 +123,3 @@
 [오브텍트 책 요약](https://github.com/cookker/todayILearned/blob/master/etc/20200704.md)
 
 [Kafka](https://github.com/cookker/todayILearned/blob/master/etc/20200707.md)
-
-
