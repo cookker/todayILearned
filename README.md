@@ -30,10 +30,6 @@
 
 [Random](https://github.com/cookker/todayILearned/blob/master/java/20200709.md)
 
-
-
-
-
 # Algoritm
 
 [백트래킹](https://github.com/cookker/todayILearned/blob/master/algorithm/20200428.md)
@@ -97,6 +93,12 @@
 [블럭넌블럭, 동기비동기](https://github.com/cookker/todayILearned/blob/master/cs/20200702.md)
 
 [Partitioning](https://github.com/cookker/todayILearned/blob/master/cs/20200706.md)
+
+[Memory Fragmentation](https://github.com/cookker/todayILearned/blob/master/cs/20200712.md) 
+
+
+
+
 
 # Bash
 
