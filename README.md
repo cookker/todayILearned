@@ -12,6 +12,10 @@
 
 [JPA Collection 조회 최적화](https://github.com/cookker/todayILearned/blob/master/spring/20200614.md)
 
+[JPA Entity LifeCycle](https://github.com/cookker/todayILearned/blob/master/spring/20200713.md)
+
+
+
 # JAVA
 
 [JVM 아키텍처](https://github.com/cookker/todayILearned/blob/master/java/20200427.md)
@@ -95,10 +99,6 @@
 [Partitioning](https://github.com/cookker/todayILearned/blob/master/cs/20200706.md)
 
 [Memory Fragmentation](https://github.com/cookker/todayILearned/blob/master/cs/20200712.md) 
-
-
-
-
 
 # Bash
 
