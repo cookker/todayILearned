@@ -14,8 +14,6 @@
 
 [JPA Entity LifeCycle](https://github.com/cookker/todayILearned/blob/master/spring/20200713.md)
 
-
-
 # JAVA
 
 [JVM 아키텍처](https://github.com/cookker/todayILearned/blob/master/java/20200427.md)
@@ -125,3 +123,7 @@
 [오브텍트 책 요약](https://github.com/cookker/todayILearned/blob/master/etc/20200704.md)
 
 [Kafka](https://github.com/cookker/todayILearned/blob/master/etc/20200707.md)
+
+[Kafka-2](https://github.com/cookker/todayILearned/blob/master/etc/20200714.md)
+
+
