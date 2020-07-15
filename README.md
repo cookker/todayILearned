@@ -126,4 +126,4 @@
 
 [Kafka-2](https://github.com/cookker/todayILearned/blob/master/etc/20200714.md)
 
-
+[REDIS 정리](https://github.com/cookker/todayILearned/blob/master/etc/20200715.md)
