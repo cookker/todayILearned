@@ -112,6 +112,8 @@
 
 [Spread Operator & Generator Func](https://github.com/cookker/todayILearned/blob/master/js/20200624.md)
 
+[JS 고차함수](https://github.com/cookker/todayILearned/blob/master/js/20200716.md)
+
 # Tools
 
 [sdkman 설치](https://github.com/cookker/todayILearned/blob/master/tools/20200618.md)
