@@ -114,6 +114,8 @@
 
 [JS 고차함수](https://github.com/cookker/todayILearned/blob/master/js/20200716.md)
 
+[Script속성 async defer](https://github.com/cookker/todayILearned/blob/master/js/20210419.md)
+
 # Tools
 
 [sdkman 설치](https://github.com/cookker/todayILearned/blob/master/tools/20200618.md)
@@ -131,5 +133,3 @@
 [REDIS 정리](https://github.com/cookker/todayILearned/blob/master/etc/20200715.md)
 
 [Effective Java 책 요약](https://github.com/cookker/todayILearned/blob/master/etc/20200719.md)
-
-
