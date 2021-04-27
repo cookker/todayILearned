@@ -116,6 +116,8 @@
 
 [Script속성 async defer](https://github.com/cookker/todayILearned/blob/master/js/20210419.md)
 
+[JS Object](https://github.com/cookker/todayILearned/blob/master/js/20210428.md)
+
 # Tools
 
 [sdkman 설치](https://github.com/cookker/todayILearned/blob/master/tools/20200618.md)
